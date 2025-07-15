@@ -1,2 +1,4 @@
 pdfplumber
 python-docx
+Flask
+gunicorn
